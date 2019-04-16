@@ -27,7 +27,7 @@ void setup() {
   your photos 
   */
   starimg = loadImage("stars.jpg");
-  spaceximg = loadImage("spacex.png"):
+  spaceximg = loadImage("spacex.png");
 }
 
 void draw() {
